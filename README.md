@@ -9,6 +9,7 @@ The chosen task is **translation**, using the prompt:
 
 Two parameter sweeps were conducted: **temperature** and **top‑p sampling**.  
 The goal was to analyze how these parameters affect translation fidelity, coherence, and creativity.
+https://youtu.be/uoR2NBsQrVY
 
 ---
 
